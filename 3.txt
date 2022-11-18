@@ -8,3 +8,8 @@ Good Morning
 Hello everyone
 <h1 style ="font-size:80;"> Nature </h1>
 Nature refers to the interaction between the physical world and the life withn it like animals,birds,trees,plants, and humans.
+<h2> importance of nature </h2>
+The health benefits of nature for humans are incredible.
+The most important thing for survial given for nature is oxygen.
+The entire cycle of respiration is regulated by nature.
+the oxygen that we inhale is given by trees and the carbondioxide we exhale is getting absorbed by trees.
